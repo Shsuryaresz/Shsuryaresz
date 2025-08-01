@@ -1,5 +1,8 @@
-<img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Shsuryaresz;Welcome+to+my+GitHub+😊"
+<div align="center">
+<a href="https://www.youtube.com/@Shsuryaresz">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello+I+am+Shsuryaresz;Saya+adalah+developer+bot+WhatsApp;+Welcome+to+mu+GitHub+I+am+😊
+
             alt="Typing SVG"
         />
     </a>
