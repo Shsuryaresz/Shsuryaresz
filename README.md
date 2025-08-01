@@ -19,14 +19,14 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Shsuryaresz}/count.svg" alt="nazedev :: Visitor's Count" /></p>
 <p align="center"><img src="https://count.getloli.com/get/@Shsuryaresz-github-readme?theme=rule34" /></p>
 <p align="center">
-  <a href="https://instagram.com/naze_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/NWL4BNB6JPN3H1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://t.me/nazedev"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/c/Nazedev"><img src="https://img.shields.io/badge/YouTube-Naze -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Nazedev" /><br>
-  <a href="https://github.com/nazedev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCl77jQD3nSFp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
+  <a href="https://instagram.com/suryaa_tzye"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/message/2YKSABPIE42IL1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/Suryaanjg"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/c/Suryaa-Md"><img src="https://img.shields.io/badge/YouTube-Naze -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Nazedev" /><br>
+  <a href="https://github.com/Shsuryaresz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/channel/UCl77jQD3Fp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
   <a name=Shsuryaresz&label=VIEWS&style=flat-square&color=orange" />
-</p> 
+</p>> 
 
 ### Repo Stats 🔭
 <p align=""><a href="https://github.com/nazedev/naze-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze-md&theme=chartreuse-dark"></a></p>
