@@ -29,9 +29,9 @@
 </p>> 
 
 ### Repo Stats 🔭
-<p align=""><a href="https://github.com/nazedev/naze-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze-md&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/nazedev/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/nazedev/nazedev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=nazedev&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/Shsurya/naze-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze-md&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/Shsurya/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/Shsuryaresz/Shsuryaresz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shsuryaresz&repo=nazedev&theme=chartreuse-dark"></a></p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
