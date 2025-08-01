@@ -13,7 +13,7 @@
 - 🌱 I am currently learning JavaScript
 - 🎯 Play Genshin Impact With Me? ID 827037089
 - 📧 My Business Email suryadev@gmail.com
-- 💰 Donate For Me [Saweria](wa.me/6283125395386) 
+- 💰 Donate For Me [Saweria](https://github.com/Shsuryaresz/QRIS---SATU-UNTUK-SEMUA.git) 
 <p align="center"><img src="https://count.getloli.com/get/@Shsuryaresz-github-readme?theme=rule34" /></p>
 <p align="center">
   <a href="https://instagram.com/suryaa_tzye"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
