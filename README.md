@@ -14,11 +14,6 @@
 - 🎯 Play Genshin Impact With Me? ID 827037089
 - 📧 My Business Email suryadev@gmail.com
 - 💰 Donate For Me [Saweria](wa.me/6283125395386) 
-
-
-### Connect with me ☎️
-<h4 align="center">Visitor's Count :</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Shsuryaresz}/count.svg" alt="nazedev :: Visitor's Count" /></p>
 <p align="center"><img src="https://count.getloli.com/get/@Shsuryaresz-github-readme?theme=rule34" /></p>
 <p align="center">
   <a href="https://instagram.com/suryaa_tzye"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
