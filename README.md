@@ -38,9 +38,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shsuryaresz&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <details>
-    <summary>&#127942 <b>GitHub Streak</b></summary><br/>
+    <summary>&#127942 <b>GitHub Trophies</b></summary><br/>
         
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shsuryaresz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
