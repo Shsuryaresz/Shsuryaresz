@@ -25,7 +25,7 @@
   <a name=Shsuryaresz&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
-### Repo Stats 🔭
+### Spotify 🔭
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
 ### MENYEDIAKAN 
