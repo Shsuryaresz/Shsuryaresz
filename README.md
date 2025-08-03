@@ -28,8 +28,6 @@
 ### Repo Stats 🔭
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryach4n&show_icons=true&locale=en&layout=compact" alt="suryach4n" /></p>
-
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
