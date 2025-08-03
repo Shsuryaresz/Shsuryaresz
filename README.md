@@ -1,20 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
-  <h3 align="center">Github Readme Streak Stats</h3>
-</p>
-
-<p align="center">
-  Display your total contributions, current streak,
-  <br/>
-  and longest streak on your GitHub profile README
-</p>
-
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
 
 ### About Me
 ![suryadev](https://github.com/user-attachments/assets/be6263c5-70a3-4aec-b359-3d6f464da707)
@@ -47,13 +30,21 @@
 ### Spotify 🔭
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
-### MENYEDIAKAN 
-- [] ⭐ JASA EDIT GITHUB
-- [] ⭐ JASA RENAME GIT HUB
-- [] ⭐ JASA BUAT REPOSITORIES
-- [] ⭐ SCRIPT HTML/CSS
-  
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+### ðŸ–Œ Themes
 
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-profile-trophy.vercel.app/?username=nazedev"></a></p>
+To enable a theme, append `&theme=` followed by the theme name to the end of the source URL:
+
+```md
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+```
+
+|     Theme      |                            Preview                            |
+| :------------: | :-----------------------------------------------------------: |
+|   `default`    |          ![default](https://i.imgur.com/IaTuYdS.png)          |
+|     `dark`     |           ![dark](https://i.imgur.com/bUrsjlp.png)            |
+| `highcontrast` |       ![highcontrast](https://i.imgur.com/ovrVrTY.png)        |
+|  More themes!  | **ðŸŽ¨ [See a list of all available themes](./docs/themes.md)** |
+
+**If you have come up with a new theme you'd like to share with others, please see [Issue #32](https://github.com/DenverCoder1/github-readme-streak-stats/issues/32) for more information on how to contribute.**
