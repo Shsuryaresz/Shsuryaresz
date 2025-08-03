@@ -28,13 +28,13 @@
 ### Repo Stats 🔭
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-profile-trophy.vercel.app/?username=nazedev"></a></p>
-<a
 ### MENYEDIAKAN 
 - [] ⭐ JASA EDIT GITHUB
 - [] ⭐ JASA RENAME GIT HUB
 - [] ⭐ JASA BUAT REPOSITORIES
 - [] ⭐ SCRIPT HTML/CSS
+  
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+<p align="center"><a href="https://github.com/nazedev"><img src="https://github-profile-trophy.vercel.app/?username=nazedev"></a></p>
