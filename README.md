@@ -31,7 +31,7 @@
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary>&#127942 <b>GitHub Streak</b></summary><br/>
 ### ðŸ–Œ Themes
 
 To enable a theme, append `&theme=` followed by the theme name to the end of the source URL:
@@ -46,5 +46,3 @@ To enable a theme, append `&theme=` followed by the theme name to the end of the
 |     `dark`     |           ![dark](https://i.imgur.com/bUrsjlp.png)            |
 | `highcontrast` |       ![highcontrast](https://i.imgur.com/ovrVrTY.png)        |
 |  More themes!  | **ðŸŽ¨ [See a list of all available themes](./docs/themes.md)** |
-
-**If you have come up with a new theme you'd like to share with others, please see [Issue #32](https://github.com/DenverCoder1/github-readme-streak-stats/issues/32) for more information on how to contribute.**
