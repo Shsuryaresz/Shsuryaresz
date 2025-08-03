@@ -36,25 +36,14 @@
     <summary>&#127942 <b>GitHub Streak</b></summary><br/>
 ### ðŸ–Œ Themes
 
-To enable a theme, append `&theme=` followed by the theme name to the end of the source URL:
-
-```md
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-```
-
-|     Theme      |                            Preview                            |
-| :------------: | :-----------------------------------------------------------: |
-|   `default`    |          ![default](https://i.imgur.com/IaTuYdS.png)          |
-|     `dark`     |           ![dark](https://i.imgur.com/bUrsjlp.png)            |
-| `highcontrast` |       ![highcontrast](https://i.imgur.com/ovrVrTY.png)        |
-|  More themes!  | **ðŸŽ¨ [See a list of all available themes](./docs/themes.md)** |
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shsuryaresz&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shsuryaresz&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shsuryaresz&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<details>
+    <summary>&#127942 <b>GitHub Streak</b></summary><br/>
+### ðŸ–Œ Themes
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shsuryaresz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
