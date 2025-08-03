@@ -32,8 +32,7 @@
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 <p align="center"><a href="https://github.com/nazedev"><img src="https://github-profile-trophy.vercel.app/?username=nazedev"></a></p>
-
-
+<a
 ### MENYEDIAKAN 
 - [] ⭐ JASA EDIT GITHUB
 - [] ⭐ JASA RENAME GIT HUB
