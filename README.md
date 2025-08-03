@@ -32,10 +32,6 @@
 ### Spotify 🔭
 ![Preview](https://tthn.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark)
 
-<details>
-    <summary>&#127942 <b>GitHub Streak</b></summary><br/>
-### ðŸ–Œ Themes
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shsuryaresz&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shsuryaresz&theme=ocean_dark&hide_border=false)<br/>
@@ -43,7 +39,7 @@
 
 <details>
     <summary>&#127942 <b>GitHub Streak</b></summary><br/>
-### ðŸ–Œ Themes
+        
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shsuryaresz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -51,11 +47,3 @@
 [![](https://visitcount.itsvg.in/api?id=Shsuryaresz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
