@@ -33,10 +33,8 @@
 
 <p align="center"><a href="https://github.com/nazedev"><img src="https://github-profile-trophy.vercel.app/?username=nazedev"></a></p>
 
-</details>
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-<p align="center"><a href="https://github.com/nazedev"><img src="https://metrics.lecoq.io/nazedev?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta"></a></p>
-
-</details> 
+### MENYEDIAKAN 
+- [ ] ⭐ JASA EDIT GITHUB
+- [ ] ⭐ JASA RENAME GIT HUB
+- [ ] ⭐ JASA BUAT REPOSITORIES
+- [ ] ⭐ SCRIPT HTML/CSS
