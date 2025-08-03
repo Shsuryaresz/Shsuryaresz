@@ -1,4 +1,4 @@
-![IMG_20250728_121433_650](https://github.com/user-attachments/assets/a892257a-23b3-484b-94ba-490c415b2d57)
+![suryadev](https://github.com/user-attachments/assets/be6263c5-70a3-4aec-b359-3d6f464da707)
 
 <img
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=HALO+NAMA+SAYA+SURYA;SAYA+DARI+LAMPUNG+SELATAN;KEC.+WAY+SULAN;SAYA+ADALAH+DEVELOPER;BOT+WHATSAPP😊"
